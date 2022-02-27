@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ayşe Nurdan
 ---
-### I'm a 7 years experianced chemical engineer who wants to learn coding. Here I'll share my projects and learning progress on Patika.dev Frontend Web Developement path.
+### I'm a 7 years experianced chemical engineer who wants to learn coding. Here I'll share my projects and learning progress on Patika.dev Frontend Web Development path.
 
 - 🔭 I’m currently working on Bootcamp Accelaration Program
 - 🌱 I’m currently learning HTML5, CSS, Bootstrap, JavaScript
