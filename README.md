@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Ayşe Nurdan
+---
+### I'm a 7 years experianced chemical engineer who wants to learn coding. Here I'll share my projects and learning progress on Patika.dev Frontend Web Developement path.
+
+- 🔭 I’m currently working on Bootcamp Accelaration Program
+- 🌱 I’m currently learning HTML5, CSS, Bootstrap, JavaScript
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/ayse-nurdan/)
+
 
 <!--
 **aysenurdan/aysenurdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
